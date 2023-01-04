@@ -1,0 +1,14 @@
+.lg-heading {
+  font-size: clamp(24px, 8vw, 48px);
+  line-height: 1;
+}
+
+.md-heading {
+  font-size: clamp(24px, 4vw, 32px);
+  line-height: 1;
+}
+
+.sm-heading {
+  font-size: clamp(15px, 2vw, 20px);
+  line-height: 1;
+}
